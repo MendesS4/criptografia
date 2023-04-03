@@ -1,4 +1,4 @@
-# criptografia
+# Criptografia com matriz 2x2
 Título: Criptografia de Mensagens com HTML e CSS  
 Descrição: Este repositório contém um projeto de criptografia de mensagens que utiliza HTML e CSS para codificar 
 e decodificar texto. O projeto é baseado em uma matriz 2x2 utilizada como chave de criptografia, que é uma técnica
